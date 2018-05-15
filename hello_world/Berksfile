@@ -1,0 +1,5 @@
+source 'https://supermarket.chef.io'
+
+cookbook 'spring_boot', path: '../spring_boot'
+
+metadata
